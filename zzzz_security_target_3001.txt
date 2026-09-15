@@ -1,1 +1,1 @@
-protected attack marker
+protected control marker at position 3000
